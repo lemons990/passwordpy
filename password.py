@@ -87,7 +87,7 @@ def opt2():
         print("Incorrect Text")
 def main():
     options = ["[1] Encode Text", "[2] Match Text"]
-    optionsIn = [0,1,25]
+    optionsIn = [0,1,2]
     a = optionsIn[1]
     b = optionsIn[2]
     print(options)
